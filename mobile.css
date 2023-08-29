@@ -1,0 +1,42 @@
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(41, 41, 41);
+    }
+    .bg-image {
+        background:url(images/photos/9-copy.jpg) !important;
+        background-size: cover !important;
+    }
+    .d-none-con {
+        display: none;
+        width: 40px !important;
+    }
+    .d-show {
+        width: 67px;
+    }
+    .nav-icons {
+        font-size: 20px;
+        padding: 6px;
+    }
+    .logo {
+        width: 120px;
+        margin-bottom: 6px;
+    }
+    .bg-image {
+        padding-top: 260px;
+    }
+    .p-image-o {
+        margin-top: 37px !important;
+    }
+    .nam {
+        font-size: 25px;
+    }
+    .boro-icon {
+        font-size: 35px;
+    }
+    .follow {
+        padding: 5px 40px;
+    }
+    .main-photos {
+        width: 30%;
+    }
+  }
